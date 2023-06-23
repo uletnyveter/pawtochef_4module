@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Neue Machina Regular';
-  src: url("../font/NeueMachina-Regular");
+  src: url("../font/NeueMachina-Regular") format("truetype");
 }
 a, a:visited {
   color: inherit; 
