@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Neue Machina-Medium';
+  src: url("../font/NeueMachina-Medium") format("truetype");
+}
+@font-face {
+  font-family: 'Neue Machina';
+  src: url("../font/NeueMachina-Regular") format("truetype");
+}
+a, a:visited {
+  color: inherit; 
+  text-decoration: inherit; 
+  color: #000;
+}
+h4, .h4, a.h4 {
+  font-family: 'Neue Machina';
+  display: block;
+  font-size: 20px;
+  line-height: 20px;
+  text-decoration: none;
+  color: #000;
+  text-transform: uppercase;
+}
+p, .p, a {
+  font-family: 'Neue Machina';
+  font-size: 44px;
+  line-height: 54px;
+  text-decoration: none;
+  color: #000;
+}
+p {
+  padding-bottom: 44px
+}
+.sidebar .menu .active {
+  color: #000;
+  text-decoration: none;
+}

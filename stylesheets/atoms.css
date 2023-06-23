@@ -1,0 +1,12 @@
+.big_logo {
+  width: 56.6px;
+  height: 49px;
+  background-image:
+  url(../images/logos.svg);
+  margin-bottom: 30px;
+}
+.small_logo {
+  width: 42px;
+  height: 37px;
+  background-image: url(../images/small_logo.svg);
+}
