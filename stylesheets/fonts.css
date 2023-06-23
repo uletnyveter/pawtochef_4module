@@ -1,11 +1,3 @@
-@font-face {
-  font-family: 'Neue Machina-Medium';
-  src: url("../font/NeueMachina-Medium") format("truetype");
-}
-@font-face {
-  font-family: 'Neue Machina';
-  src: url("../font/NeueMachina-Regular") format("truetype");
-}
 a, a:visited {
   color: inherit; 
   text-decoration: inherit; 
