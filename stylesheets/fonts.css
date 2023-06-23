@@ -8,7 +8,7 @@ a, a:visited {
   color: #000;
 }
 h4, .h4, a.h4 {
-  font-family: 'Neue Machina';
+  font-family: 'Neue Machina Regular';
   display: block;
   font-size: 20px;
   line-height: 20px;
@@ -17,7 +17,7 @@ h4, .h4, a.h4 {
   text-transform: uppercase;
 }
 p, .p, a {
-  font-family: 'Neue Machina';
+  font-family: 'Neue Machina Regular';
   font-size: 44px;
   line-height: 54px;
   text-decoration: none;
