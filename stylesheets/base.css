@@ -4,6 +4,7 @@
 @import "components.css";
 @import "main_page.css";
 @import "colors.css";
+@import "font.css";
 body {
   width: 100%;
   height: 100%;
